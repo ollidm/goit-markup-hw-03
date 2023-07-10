@@ -193,9 +193,8 @@ img {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.64px;
-  border: 1px solid #e7e9fc;
+  border: 1px solid var(--Modalbackground);
   background: var(--Light);
-  border: 1px solid transparent;
 }
 
 /* Головна */
@@ -245,7 +244,7 @@ img {
   padding: 120px 0 120px;
 }
 .infomation_list {
-  margin-right: 24px;
+  gap: 24px;
 }
 .infomation_list_item {
 }
@@ -255,7 +254,7 @@ img {
   line-height: 1.2;
   color: #2e2f42;
   letter-spacing: 0.02em;
-  margin-bottom: 8px;
+  
 }
 .infomation_list_text {
   font-size: 16px;
@@ -278,8 +277,7 @@ img {
   line-height: 1.11;
   text-align: center;
   margin-bottom: 72px;
-  color: var(--Dark);
-  margin-bottom: 8px;
+  color: var(--Dark); margin-bottom: 8px
 }
 .doing_list {
   background-color: #ffffff;
