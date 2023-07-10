@@ -244,11 +244,9 @@ img {
   padding: 120px 0 120px;
 }
 .infomation_list {
- 
+  gap: 24px;
 }
 .infomation_list_item {
-  margin-right: 24px;
-  margin-right: 0;
 }
 .infomation_list_name {
   font-weight: 500;
