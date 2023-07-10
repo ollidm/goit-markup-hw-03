@@ -254,6 +254,7 @@ img {
   line-height: 1.2;
   color: #2e2f42;
   letter-spacing: 0.02em;
+  margin-bottom: 8px;
 }
 .infomation_list_text {
   font-size: 16px;
@@ -275,6 +276,7 @@ img {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
+  margin-bottom: 72px;
   color: var(--Dark);
   margin-bottom: 8px;
 }
