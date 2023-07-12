@@ -250,23 +250,25 @@ img {
 }
 .infomation_list {
   gap: 24px;
-   flex-basis: calc((100% - 72px) / 4)
+   
 }
 .infomation_list_item {
+   width: calc((100% - 24px * 3) / 4);
 }
 .infomation_list_name {
+   color: #2e2f42;
+ font-size: 20px;
   font-weight: 500;
-  font-size: 20px;
   line-height: 1.2;
-  color: #2e2f42;
   letter-spacing: 0.02em;
+  margin-bottom: 8px;
 }
 .infomation_list_text {
   font-size: 16px;
   line-height: 1.5;
   color: #434455;
   letter-spacing: 0.02em;
-  margin-bottom: 8px;
+
 }
 
 /* Секція 2 */
@@ -336,7 +338,7 @@ img {
   font-size: 16px;
 }
 
-wrap/* Портфоліо */
+/* Портфоліо */
 
 .visually-hidden {
   position: absolute;
