@@ -74,6 +74,8 @@ img {
   text-transform: uppercase;
   font-weight: 800;
   margin-right: 76px;
+  display: inline-block; 
+  margin-bottom: 16px; 
 }
 .header-menu-list {
   display: inline-flex;
