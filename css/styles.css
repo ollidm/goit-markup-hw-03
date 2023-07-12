@@ -248,6 +248,7 @@ img {
 }
 .infomation_list {
   gap: 24px;
+   flex-basis: calc((100% - 72px) / 4)
 }
 .infomation_list_item {
 }
@@ -263,6 +264,7 @@ img {
   line-height: 1.5;
   color: #434455;
   letter-spacing: 0.02em;
+  margin-bottom: 8px;
 }
 
 /* Секція 2 */
