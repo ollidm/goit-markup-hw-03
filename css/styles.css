@@ -360,7 +360,7 @@ img {
   row-gap: 48px;
 }
 .porto_item {
-  flex-basis: calc((100% - 3 * 24px) / 4);
+ flex-basis: calc((100% - 3 * 24px) / 4)
 }
 .div-text {
   padding: 32px 16px;
