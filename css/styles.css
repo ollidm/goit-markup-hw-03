@@ -282,19 +282,25 @@ img {
   flex-basis: calc((100% - 72px) / 4);
 }
 .doing_title {
-  font-size: 36px;
-  line-height: 1.11;
-  text-align: center;
+  
   margin-bottom: 72px;
-  color: var(--Dark);
+  color: var(--Dark); font-size: 36px;
+  font-weight: 500;
+  line-height: 1.11;
+  letter-spacing: 0.72px;
+  text-transform: capitalize;
+  text-align: center;
+  letter-spacing: 0.02em;
+  margin: 0 auto 72px;
 }
 .doing_list {
   background-color: #ffffff;
+   gap: 24px;
 }
-.doing_list_item {
-  text-align: center;
-  border-radius: 0px 0px 4px 4px;
+.doing_list_item {border-radius: 0px 0px 4px 4px;
+  width: calc((100% - 72px) / 4);
   background-color: var(--White);
+
 }
 /* Секція 3 */
 .our {
