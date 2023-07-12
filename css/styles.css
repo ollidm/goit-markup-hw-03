@@ -84,6 +84,7 @@ img {
 .link {
   padding: 24px 0;
   text-decoration: none;
+  
 }
 .loggo {
   color: var(--Dark);
