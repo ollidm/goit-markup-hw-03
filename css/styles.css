@@ -74,8 +74,8 @@ img {
   text-transform: uppercase;
   font-weight: 800;
   margin-right: 76px;
-  display: inline-block; 
-  margin-bottom: 16px; 
+  display: inline-block;
+  margin-bottom: 16px;
 }
 .header-menu-list {
   display: inline-flex;
@@ -86,7 +86,6 @@ img {
 .link {
   padding: 24px 0;
   text-decoration: none;
-  
 }
 .loggo {
   color: var(--Dark);
@@ -250,14 +249,13 @@ img {
 }
 .infomation_list {
   gap: 24px;
-   
 }
 .infomation_list_item {
-   width: calc((100% - 24px * 3) / 4);
+  width: calc((100% - 24px * 3) / 4);
 }
 .infomation_list_name {
-   color: #2e2f42;
- font-size: 20px;
+  color: #2e2f42;
+  font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
@@ -268,7 +266,6 @@ img {
   line-height: 1.5;
   color: #434455;
   letter-spacing: 0.02em;
-
 }
 
 /* Секція 2 */
@@ -281,10 +278,12 @@ img {
   letter-spacing: 0.02em;
   flex-basis: calc((100% - 72px) / 4);
 }
-.doing_title {
-  
+.second-tittle {
   margin-bottom: 72px;
-  color: var(--Dark); font-size: 36px;
+}
+.doing_title {
+  color: var(--Dark);
+  font-size: 36px;
   font-weight: 500;
   line-height: 1.11;
   letter-spacing: 0.72px;
@@ -295,12 +294,12 @@ img {
 }
 .doing_list {
   background-color: #ffffff;
-   gap: 24px;
+  gap: 24px;
 }
-.doing_list_item {border-radius: 0px 0px 4px 4px;
+.doing_list_item {
+  border-radius: 0px 0px 4px 4px;
   width: calc((100% - 72px) / 4);
   background-color: var(--White);
-
 }
 /* Секція 3 */
 .our {
