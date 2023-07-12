@@ -99,6 +99,8 @@ img {
   padding: 100px 0;
   background: var(--Dark);
   color: var(--Light);
+   display: inline-block;
+   margin-bottom: 16px;
 }
 .logo_change_link {
   max-width: 264px;
