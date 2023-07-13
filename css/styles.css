@@ -316,13 +316,13 @@ img {
   margin: 0 auto 72px;
 }
 
-.our_list {
-}
+.our_list {  width: calc((100% - 72px) / 4);
+  gap: 24px;}
 .our_list_item {
   background-color: #ffffff;
-  gap: 24px;
+
   border-radius: 0px 0px 4px 4px;
-  width: calc((100% - 72px) / 4);
+
 }
 .our-description {
   padding: 32px 16px;
