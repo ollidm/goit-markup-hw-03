@@ -293,11 +293,11 @@ img {
 }
 .doing_list {
   background-color: #ffffff;
-  gap: 24px;
+  gap: 24px;  width: calc((100% - 72px) / 4);
 }
 .doing_list_item {
   border-radius: 0px 0px 4px 4px;
-  width: calc((100% - 72px) / 4);
+
   background-color: var(--White);
 }
 /* Секція 3 */
