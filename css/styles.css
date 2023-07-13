@@ -317,7 +317,7 @@ img {
 }
 
 .our_list {
-  width: calc((100% - 72px) / 4);
+
   gap: 24px;
 }
 .our_list_item {
