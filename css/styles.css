@@ -195,8 +195,7 @@ img {
   line-height: 1.5;
   letter-spacing: 0.64px;
 
-
-  
+  background: var(--Light);
   border: 1px solid #e7e9fc;
   border: 1px solid transparent;
 }
@@ -293,12 +292,12 @@ img {
   margin: 0 auto 72px;
 }
 .doing_list {
+  width: calc((100% - 72px) / 4);
   background-color: #ffffff;
-  gap: 24px;  width: calc((100% - 72px) / 4);
+  gap: 24px;
 }
 .doing_list_item {
   border-radius: 0px 0px 4px 4px;
-
   background-color: var(--White);
 }
 /* Секція 3 */
@@ -318,14 +317,12 @@ img {
 }
 
 .our_list {
-
   gap: 24px;
 }
 .our_list_item {
   border-radius: 0px 0px 4px 4px;
   background-color: #ffffff;
   width: calc((100% - 72px) / 4);
-
 }
 .our-description {
   padding: 32px 16px;
