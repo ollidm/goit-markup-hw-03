@@ -194,9 +194,9 @@ img {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.64px;
-border: 1px solid #e7e9fc ;
+
   background: var(--Light);
-  
+  border: 1px solid #e7e9fc ;
  border: 1px solid transparent 
 }
 
