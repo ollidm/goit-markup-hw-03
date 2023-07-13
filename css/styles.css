@@ -195,7 +195,8 @@ img {
   line-height: 1.5;
   letter-spacing: 0.64px;
 
-  background: var(--Light);
+
+  
   border: 1px solid #e7e9fc;
   border: 1px solid transparent;
 }
