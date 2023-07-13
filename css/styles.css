@@ -321,10 +321,10 @@ img {
   gap: 24px;
 }
 .our_list_item {
-  width: calc((100% - 72px) / 4);
-  background-color: #ffffff;
-
   border-radius: 0px 0px 4px 4px;
+  background-color: #ffffff;
+  width: calc((100% - 72px) / 4);
+
 }
 .our-description {
   padding: 32px 16px;
