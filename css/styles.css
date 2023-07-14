@@ -170,8 +170,7 @@ img {
   display: inline-flex;
   align-items: flex-start;
   gap: 24px;
-  border: 1px solid #e7e9fc;
-  
+   border: 1px solid transparent;
 }
 .buttonse:hover,
 .buttonse:focus {
@@ -198,8 +197,8 @@ img {
   letter-spacing: 0.64px;
 
   background: var(--Light);
-  
-  border: 1px solid transparent;
+  border: 1px solid #e7e9fc;
+ 
 }
 
 /* Головна */
