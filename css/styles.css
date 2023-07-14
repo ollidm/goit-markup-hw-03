@@ -196,8 +196,8 @@ img {
   letter-spacing: 0.64px;
 
   background: var(--Light);
-  border: 1px solid #e7e9fc;
-  border: 1px solid transparent
+  border: 1px solid #e7e9fc transparent;
+
 }
 
 /* Головна */
@@ -362,7 +362,6 @@ img {
   justify-content: center;
   gap: 24px;
   margin-bottom: 72px;
-
 }
 
 .porto {
