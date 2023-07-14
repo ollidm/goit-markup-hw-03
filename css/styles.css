@@ -170,7 +170,7 @@ img {
   display: inline-flex;
   align-items: flex-start;
   gap: 24px;
-   border: 1px solid transparent;
+  border: 1px solid transparent;
 }
 .buttonse:hover,
 .buttonse:focus {
@@ -198,7 +198,6 @@ img {
 
   background: var(--Light);
   border: 1px solid #e7e9fc;
- 
 }
 
 /* Головна */
@@ -293,11 +292,9 @@ img {
   margin: 0 auto 72px;
 }
 .doing_list {
-
   gap: 24px;
 }
 .doing_list_item {
- 
 }
 /* Секція 3 */
 .our {
@@ -371,10 +368,10 @@ img {
   display: flex;
   flex-wrap: wrap;
   column-gap: 24px;
-  row-gap: 48px;flex-basis: calc((100% - 48px) / 3);
+  row-gap: 48px;
+  flex-basis: calc((100% - 48px) / 3);
 }
 .porto_item {
-  
 }
 .div-text {
   padding: 32px 16px;
