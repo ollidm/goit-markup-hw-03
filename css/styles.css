@@ -197,7 +197,7 @@ img {
 
   background: var(--Light);
   border: 1px solid #e7e9fc;
-  border: 1px solid transparent;
+
 }
 
 /* Головна */
@@ -292,13 +292,11 @@ img {
   margin: 0 auto 72px;
 }
 .doing_list {
-  width: calc((100% - 72px) / 4);
-  background-color: #ffffff;
+
   gap: 24px;
 }
 .doing_list_item {
-  border-radius: 0px 0px 4px 4px;
-  background-color: var(--White);
+ 
 }
 /* Секція 3 */
 .our {
