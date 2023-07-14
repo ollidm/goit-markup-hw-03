@@ -170,7 +170,6 @@ img {
   display: inline-flex;
   align-items: flex-start;
   gap: 24px;
-  border: 1px solid transparent;
 }
 .buttonse:hover,
 .buttonse:focus {
@@ -362,6 +361,7 @@ img {
   justify-content: center;
   gap: 24px;
   margin-bottom: 72px;
+  border: 1px solid transparent;
 }
 
 .porto {
