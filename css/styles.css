@@ -175,7 +175,7 @@ img {
 .buttonse:focus {
   color: var(--White);
   background-color: var(--Pressedstate);
-}
+  border: 1px solid transparent;}
 .button {
   color: var(--Modaloverlay);
 }
@@ -197,7 +197,7 @@ img {
 
   background: var(--Light);
   border: 1px solid #e7e9fc;
-  border: 1px solid transparent;
+
 }
 
 /* Головна */
