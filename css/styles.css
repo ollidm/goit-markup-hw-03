@@ -101,7 +101,6 @@ link {
 }
 .link {
   text-decoration: none;
-  gap: 24px;
 }
 
 .header-menu {
@@ -406,13 +405,13 @@ link {
   flex-basis: calc((100% - 48px) / 3);
 }
 .porto_item {
+  text-decoration: none;
+  gap: 24px;
 }
 .linkes .div-text {
-  padding: 32px 16px;
   border: 1px solid #e7e9fc;
   border-top: none;
-  padding: 24px 0;
-  text-decoration: none;
+  padding: 32px 16px;
 }
 
 .porto_item_tittle {
