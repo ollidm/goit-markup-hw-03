@@ -36,6 +36,13 @@ img {
   clip: rect(0 0 0 0);
   overflow: hidden;
 }
+link {
+  padding: 32px 16px;
+  border: 1px solid #e7e9fc;
+  border-top: none;
+  padding: 24px 0;
+  text-decoration: none;
+}
 /* Color */
 :root {
   --PrimaryBrand: #4d5ae5;
@@ -94,6 +101,7 @@ img {
 }
 .link {
   text-decoration: none;
+  gap: 24px;
 }
 
 .header-menu {
@@ -389,6 +397,7 @@ img {
 }
 
 /* Row 1 2 3 */
+
 .porto {
   display: flex;
   flex-wrap: wrap;
@@ -402,6 +411,8 @@ img {
   padding: 32px 16px;
   border: 1px solid #e7e9fc;
   border-top: none;
+  padding: 24px 0;
+  text-decoration: none;
 }
 
 .porto_item_tittle {
